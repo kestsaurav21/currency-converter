@@ -3,6 +3,9 @@ This project was bootstrapped with [vite](https://vitejs.dev/guide/#scaffolding-
 <ins>App Preview</ins>
 ![Project Preview](src/images/app.png)
 
+<ins>Live Link</ins>
+![Click here->](https://currency-converter-izyk4wbth-kestsaurav21s-projects.vercel.app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
