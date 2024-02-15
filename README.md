@@ -4,7 +4,7 @@ This project was bootstrapped with [vite](https://vitejs.dev/guide/#scaffolding-
 ![Project Preview](src/images/app.png)
 
 <ins>Live Link</ins>
-Open [https://currency-converter-e6pp333mp-kestsaurav21s-projects.vercel.app/](https://currency-converter-e6pp333mp-kestsaurav21s-projects.vercel.app/)
+[https://currency-converter-e6pp333mp-kestsaurav21s-projects.vercel.app/](https://currency-converter-e6pp333mp-kestsaurav21s-projects.vercel.app/)
 
 ## Available Scripts
 
